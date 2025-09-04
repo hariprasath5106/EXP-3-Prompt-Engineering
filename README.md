@@ -19,9 +19,7 @@ Evaluation of 2024 Prompting Tools Across Diverse AI Platforms to make a report 
 ## Output
 ![lab 3_page-0001](https://github.com/user-attachments/assets/a9624f40-1baa-4e50-8581-d4605c99bbca)
 ![lab 3_page-0002](https://github.com/user-attachments/assets/3640fdca-6762-4eec-9541-4514c0a1e8bd)
-
 [lab 3_page-0003](https://github.com/user-attachments/assets/2e3c8c31-0f33-4ffc-91cd-613489e1e825)
-8dfb9)
 ![lab 3_page-0004](https://github.com/user-attachments/assets/595b12d6-be47-4a88-a86f-3b981201fa47)
 ![lab 3_page-0005](https://github.com/user-attachments/assets/a1424ce9-28b5-46a2-841a-9cfbd30b6a7f)
 ![lab 3_page-0006](https://github.com/user-attachments/assets/40100376-5611-48fe-b54a-688de90b958b)
