@@ -25,6 +25,5 @@ Evaluation of 2024 Prompting Tools Across Diverse AI Platforms to make a report 
 ![lab 3_page-0006](https://github.com/user-attachments/assets/40100376-5611-48fe-b54a-688de90b958b)
 ![lab 3_page-0007](https://github.com/user-attachments/assets/77a67111-a897-485b-a953-719c53ce7a32)
 ![lab 3_page-0008](https://github.com/user-attachments/assets/800dbc0b-dcd9-4836-8a9f-56051e8cc86c)
-
 ## Result
 The report was successfully submitted.
